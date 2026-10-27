@@ -1,0 +1,1001 @@
+Location,Relationship,Time,Day,Duration_Minutes,Timestamp,Modalities
+Social,Friend,Afternoon,Weekend,70,2025-01-05 08:15:00,Audio + Visual + Smell + Taste + Haptics
+Work,Acquaintance,Morning,Weekend,11,2025-01-06 03:32:00,Audio
+Work,Family,Morning,Weekend,8,2025-01-06 19:24:00,Audio
+Social,Acquaintance,Night,Weekday,31,2025-01-07 09:53:00,Audio + Visual + Haptics
+Work,Friend,Night,Weekday,30,2025-01-08 02:53:00,Audio + Visual + Haptics
+Travel,Acquaintance,Morning,Weekday,9,2025-01-08 21:11:00,Visual
+Travel,Colleague,Night,Weekend,15,2025-01-09 07:33:00,Audio + Haptics
+Home,Acquaintance,Morning,Weekend,22,2025-01-10 00:11:00,Audio + Haptics
+Travel,Family,Night,Weekend,11,2025-01-10 16:03:00,Audio + Haptics
+Social,Acquaintance,Night,Weekend,35,2025-01-11 04:06:00,Audio + Visual + Haptics
+Social,Family,Night,Weekend,57,2025-01-12 00:36:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Family,Afternoon,Weekday,30,2025-01-12 18:12:00,Audio + Haptics
+Social,Colleague,Morning,Weekday,19,2025-01-13 12:28:00,Audio + Visual
+Travel,Friend,Morning,Weekend,15,2025-01-13 21:18:00,Audio + Haptics
+Travel,Family,Afternoon,Weekday,21,2025-01-14 16:05:00,Audio + Haptics
+Work,Friend,Evening,Weekend,41,2025-01-15 12:09:00,Audio + Visual + Haptics
+Social,Friend,Evening,Weekday,30,2025-01-16 05:44:00,Audio + Visual + Haptics
+Social,Colleague,Morning,Weekday,23,2025-01-17 00:14:00,Audio + Visual
+Work,Friend,Night,Weekday,52,2025-01-17 18:56:00,Audio + Visual + Haptics
+Home,Family,Evening,Weekend,21,2025-01-18 06:14:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekend,22,2025-01-18 15:13:00,Audio + Visual
+Work,Family,Afternoon,Weekday,21,2025-01-19 10:48:00,Audio + Visual
+Work,Acquaintance,Night,Weekday,21,2025-01-19 21:57:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,32,2025-01-20 11:53:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekday,35,2025-01-20 22:21:00,Audio + Visual + Haptics
+Travel,Acquaintance,Night,Weekend,5,2025-01-21 19:12:00,Audio + Haptics
+Work,Colleague,Evening,Weekend,32,2025-01-22 03:24:00,Audio + Visual + Haptics
+Work,Colleague,Evening,Weekend,26,2025-01-22 17:57:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,17,2025-01-23 07:47:00,Audio + Visual
+Home,Family,Afternoon,Weekday,31,2025-01-23 19:21:00,Audio + Visual
+Work,Colleague,Morning,Weekday,25,2025-01-24 14:58:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,43,2025-01-25 10:05:00,Audio + Visual + Haptics
+Social,Acquaintance,Night,Weekday,36,2025-01-25 23:14:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekday,11,2025-01-26 08:03:00,Audio
+Travel,Acquaintance,Afternoon,Weekday,15,2025-01-26 16:10:00,Audio + Haptics
+Travel,Family,Morning,Weekend,22,2025-01-27 08:45:00,Audio + Haptics
+Work,Acquaintance,Morning,Weekday,9,2025-01-27 18:49:00,Audio
+Home,Colleague,Afternoon,Weekday,12,2025-01-28 14:42:00,Audio
+Work,Family,Afternoon,Weekday,18,2025-01-29 00:16:00,Audio + Visual
+Home,Friend,Morning,Weekend,26,2025-01-29 16:14:00,Audio + Visual
+Home,Colleague,Night,Weekday,18,2025-01-30 02:55:00,Audio + Visual
+Travel,Acquaintance,Night,Weekday,23,2025-01-30 19:17:00,Audio + Haptics
+Travel,Friend,Morning,Weekend,30,2025-01-31 11:54:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekday,17,2025-02-01 01:17:00,Audio + Haptics
+Travel,Colleague,Night,Weekday,22,2025-02-01 16:10:00,Audio + Haptics
+Home,Friend,Evening,Weekday,38,2025-02-02 01:39:00,Audio + Visual + Haptics
+Home,Acquaintance,Morning,Weekday,13,2025-02-02 13:20:00,Audio
+Travel,Friend,Afternoon,Weekday,25,2025-02-03 05:45:00,Audio + Haptics
+Social,Acquaintance,Night,Weekend,44,2025-02-03 14:35:00,Audio + Visual + Smell + Haptics
+Work,Colleague,Morning,Weekday,46,2025-02-04 10:58:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekend,23,2025-02-05 06:42:00,Audio + Visual
+Home,Acquaintance,Morning,Weekend,8,2025-02-05 22:55:00,Audio
+Work,Colleague,Evening,Weekend,26,2025-02-06 10:35:00,Audio + Visual
+Home,Acquaintance,Morning,Weekend,8,2025-02-06 22:30:00,Audio
+Social,Friend,Morning,Weekday,19,2025-02-07 14:42:00,Audio + Visual
+Travel,Acquaintance,Morning,Weekday,19,2025-02-08 05:54:00,Audio + Haptics
+Home,Family,Evening,Weekend,47,2025-02-08 20:59:00,Audio + Visual + Haptics
+Home,Acquaintance,Morning,Weekday,6,2025-02-09 10:35:00,Audio
+Work,Family,Night,Weekday,42,2025-02-09 20:19:00,Audio + Visual + Haptics
+Social,Colleague,Morning,Weekday,21,2025-02-10 06:43:00,Audio + Visual
+Work,Acquaintance,Night,Weekend,22,2025-02-10 18:25:00,Audio + Visual
+Work,Friend,Evening,Weekend,19,2025-02-11 14:18:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekend,11,2025-02-12 08:08:00,Audio + Visual
+Social,Colleague,Afternoon,Weekday,18,2025-02-12 21:59:00,Audio + Visual
+Travel,Family,Evening,Weekend,29,2025-02-13 18:49:00,Audio + Haptics
+Home,Acquaintance,Night,Weekday,28,2025-02-14 07:08:00,Audio + Haptics
+Work,Friend,Evening,Weekend,37,2025-02-14 15:11:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekday,12,2025-02-15 06:51:00,Audio + Visual
+Travel,Friend,Morning,Weekend,24,2025-02-16 00:54:00,Audio + Haptics
+Social,Family,Evening,Weekday,29,2025-02-16 11:18:00,Audio + Visual + Haptics
+Social,Family,Morning,Weekday,6,2025-02-17 02:52:00,Audio + Visual
+Social,Family,Evening,Weekday,52,2025-02-17 16:45:00,Audio + Visual + Smell + Haptics
+Travel,Family,Evening,Weekend,18,2025-02-18 01:15:00,Audio + Haptics
+Social,Acquaintance,Night,Weekday,24,2025-02-18 12:07:00,Audio + Visual + Haptics
+Home,Friend,Evening,Weekday,38,2025-02-18 22:05:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekday,11,2025-02-19 12:27:00,Audio
+Work,Family,Afternoon,Weekday,22,2025-02-20 07:36:00,Audio + Visual
+Travel,Friend,Morning,Weekend,21,2025-02-20 23:25:00,Audio + Haptics
+Social,Family,Night,Weekend,56,2025-02-21 13:06:00,Audio + Visual + Smell + Taste + Haptics
+Social,Friend,Afternoon,Weekday,27,2025-02-21 21:35:00,Audio + Visual
+Travel,Family,Night,Weekend,24,2025-02-22 10:41:00,Audio + Haptics
+Travel,Friend,Evening,Weekend,3,2025-02-22 22:37:00,Visual + Haptics
+Home,Acquaintance,Evening,Weekday,13,2025-02-23 11:45:00,Audio + Visual
+Travel,Colleague,Night,Weekend,10,2025-02-23 23:29:00,Audio + Haptics
+Home,Colleague,Afternoon,Weekday,14,2025-02-24 16:37:00,Audio
+Social,Friend,Afternoon,Weekday,8,2025-02-25 11:04:00,Audio + Visual
+Home,Friend,Afternoon,Weekday,20,2025-02-26 01:39:00,Audio + Visual
+Home,Colleague,Afternoon,Weekend,10,2025-02-26 22:19:00,Audio
+Social,Colleague,Morning,Weekday,37,2025-02-27 19:09:00,Audio + Visual
+Home,Family,Night,Weekend,33,2025-02-28 08:35:00,Audio + Visual + Haptics
+Work,Family,Morning,Weekend,14,2025-03-01 03:20:00,Audio + Haptics
+Social,Friend,Evening,Weekday,27,2025-03-01 22:12:00,Audio + Visual + Haptics
+Social,Acquaintance,Night,Weekend,43,2025-03-02 07:28:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Evening,Weekend,19,2025-03-02 20:36:00,Audio + Visual + Haptics
+Social,Acquaintance,Afternoon,Weekday,23,2025-03-03 15:04:00,Audio + Visual
+Travel,Colleague,Night,Weekend,18,2025-03-04 04:11:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekday,27,2025-03-04 18:02:00,Audio + Haptics
+Travel,Friend,Afternoon,Weekday,20,2025-03-05 04:01:00,Visual + Haptics
+Travel,Colleague,Afternoon,Weekend,17,2025-03-05 18:46:00,Audio + Haptics
+Travel,Acquaintance,Night,Weekend,27,2025-03-06 10:29:00,Audio + Haptics
+Home,Family,Afternoon,Weekday,18,2025-03-06 19:41:00,Audio + Visual
+Home,Acquaintance,Evening,Weekend,13,2025-03-07 06:16:00,Audio + Visual
+Home,Acquaintance,Night,Weekday,19,2025-03-07 23:28:00,Audio + Visual
+Social,Family,Morning,Weekday,18,2025-03-08 20:14:00,Audio + Visual
+Work,Acquaintance,Morning,Weekend,10,2025-03-09 07:45:00,Audio
+Work,Family,Evening,Weekday,30,2025-03-10 03:40:00,Audio + Visual + Haptics
+Work,Family,Night,Weekday,31,2025-03-10 12:11:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekend,25,2025-03-10 20:39:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekday,15,2025-03-11 11:57:00,Audio
+Home,Acquaintance,Evening,Weekday,24,2025-03-11 21:16:00,Audio + Visual
+Travel,Friend,Evening,Weekend,23,2025-03-12 12:46:00,Visual + Haptics
+Travel,Acquaintance,Evening,Weekend,14,2025-03-12 20:50:00,Visual + Haptics
+Work,Acquaintance,Morning,Weekday,15,2025-03-13 14:37:00,Audio
+Home,Friend,Afternoon,Weekday,10,2025-03-14 08:11:00,Audio
+Home,Family,Afternoon,Weekday,9,2025-03-14 19:42:00,Audio + Visual
+Travel,Family,Afternoon,Weekday,16,2025-03-15 13:42:00,Audio + Haptics
+Travel,Family,Night,Weekend,16,2025-03-15 22:00:00,Audio + Haptics
+Home,Colleague,Afternoon,Weekday,10,2025-03-16 17:26:00,Audio
+Home,Colleague,Night,Weekday,27,2025-03-17 06:08:00,Audio + Visual
+Work,Acquaintance,Afternoon,Weekday,12,2025-03-17 20:31:00,Audio
+Travel,Friend,Afternoon,Weekday,7,2025-03-18 08:10:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekend,9,2025-03-18 16:31:00,Audio
+Travel,Colleague,Afternoon,Weekday,14,2025-03-19 04:23:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekday,10,2025-03-19 23:32:00,Audio + Haptics
+Travel,Family,Night,Weekend,16,2025-03-20 09:53:00,Audio + Haptics
+Work,Acquaintance,Afternoon,Weekday,11,2025-03-20 20:44:00,Audio
+Travel,Friend,Morning,Weekday,9,2025-03-21 06:43:00,Audio + Haptics
+Home,Colleague,Afternoon,Weekend,8,2025-03-21 23:09:00,Audio
+Travel,Acquaintance,Morning,Weekday,18,2025-03-22 12:11:00,Audio + Haptics
+Travel,Family,Afternoon,Weekday,14,2025-03-23 06:49:00,Audio + Haptics
+Home,Friend,Afternoon,Weekday,19,2025-03-23 17:27:00,Audio + Visual
+Social,Friend,Morning,Weekday,24,2025-03-24 05:25:00,Audio + Visual
+Travel,Friend,Evening,Weekday,23,2025-03-24 23:14:00,Visual + Haptics
+Work,Acquaintance,Morning,Weekday,11,2025-03-25 13:40:00,Audio
+Social,Friend,Night,Weekend,48,2025-03-25 23:14:00,Audio + Visual + Smell + Haptics
+Travel,Acquaintance,Afternoon,Weekday,24,2025-03-26 19:55:00,Visual + Haptics
+Travel,Acquaintance,Evening,Weekend,24,2025-03-27 09:54:00,Visual + Haptics
+Travel,Family,Morning,Weekend,22,2025-03-27 23:11:00,Audio + Haptics
+Home,Colleague,Afternoon,Weekend,4,2025-03-28 15:37:00,Audio
+Travel,Acquaintance,Evening,Weekend,37,2025-03-29 08:03:00,Visual + Haptics
+Home,Acquaintance,Evening,Weekend,12,2025-03-29 16:21:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,37,2025-03-30 08:32:00,Audio + Visual
+Social,Friend,Afternoon,Weekend,30,2025-03-30 23:06:00,Audio + Visual
+Travel,Acquaintance,Morning,Weekday,10,2025-03-31 12:17:00,Audio + Haptics
+Home,Friend,Evening,Weekday,20,2025-03-31 22:58:00,Audio + Visual
+Social,Acquaintance,Night,Weekend,55,2025-04-01 11:49:00,Audio + Visual + Smell + Haptics
+Work,Friend,Morning,Weekend,10,2025-04-02 00:40:00,Audio
+Work,Acquaintance,Evening,Weekend,16,2025-04-02 19:37:00,Audio + Visual
+Travel,Colleague,Night,Weekday,16,2025-04-03 11:09:00,Audio + Haptics
+Work,Colleague,Morning,Weekday,22,2025-04-04 02:02:00,Audio + Visual
+Travel,Friend,Evening,Weekday,19,2025-04-04 15:14:00,Visual + Haptics
+Travel,Friend,Evening,Weekend,10,2025-04-05 04:33:00,Visual + Haptics
+Home,Acquaintance,Afternoon,Weekend,19,2025-04-05 17:43:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekend,13,2025-04-06 07:30:00,Audio
+Home,Friend,Morning,Weekend,25,2025-04-06 22:01:00,Audio + Visual
+Social,Family,Night,Weekend,67,2025-04-07 13:45:00,Audio + Visual + Smell + Taste + Haptics
+Social,Acquaintance,Afternoon,Weekday,23,2025-04-08 01:23:00,Audio + Visual
+Home,Friend,Afternoon,Weekday,21,2025-04-08 21:03:00,Audio + Visual
+Travel,Family,Evening,Weekend,19,2025-04-09 09:09:00,Audio + Haptics
+Work,Colleague,Evening,Weekend,31,2025-04-10 04:54:00,Audio + Visual + Haptics
+Travel,Friend,Evening,Weekend,32,2025-04-11 01:19:00,Visual + Haptics
+Social,Colleague,Afternoon,Weekend,17,2025-04-11 17:52:00,Audio + Visual
+Social,Family,Morning,Weekday,18,2025-04-12 09:16:00,Audio + Visual
+Travel,Acquaintance,Night,Weekend,18,2025-04-12 19:10:00,Audio + Haptics
+Work,Friend,Morning,Weekend,12,2025-04-13 04:51:00,Audio
+Travel,Friend,Afternoon,Weekday,16,2025-04-13 18:15:00,Visual + Haptics
+Social,Friend,Afternoon,Weekday,21,2025-04-14 03:03:00,Audio + Visual
+Home,Family,Night,Weekend,24,2025-04-14 22:21:00,Audio + Visual + Haptics
+Work,Friend,Night,Weekday,44,2025-04-15 16:29:00,Audio + Visual + Haptics
+Travel,Acquaintance,Afternoon,Weekday,18,2025-04-16 03:52:00,Visual + Haptics
+Travel,Family,Morning,Weekend,19,2025-04-16 20:23:00,Visual + Haptics
+Work,Acquaintance,Morning,Weekday,5,2025-04-17 17:19:00,Audio
+Home,Family,Night,Weekend,23,2025-04-18 05:17:00,Audio + Visual + Haptics
+Travel,Family,Morning,Weekend,15,2025-04-18 13:51:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,12,2025-04-19 08:17:00,Visual + Haptics
+Home,Family,Night,Weekend,16,2025-04-20 01:33:00,Audio + Visual
+Social,Colleague,Afternoon,Weekday,10,2025-04-20 13:08:00,Audio + Visual
+Travel,Acquaintance,Night,Weekend,19,2025-04-20 23:10:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,17,2025-04-21 07:36:00,Audio + Haptics
+Social,Friend,Morning,Weekday,17,2025-04-21 15:37:00,Audio + Visual
+Travel,Colleague,Night,Weekday,8,2025-04-22 05:07:00,Audio + Visual
+Home,Acquaintance,Morning,Weekday,9,2025-04-22 14:20:00,Audio
+Social,Colleague,Afternoon,Weekday,37,2025-04-23 04:51:00,Audio + Visual
+Home,Friend,Night,Weekday,39,2025-04-23 22:55:00,Audio + Visual + Haptics
+Work,Family,Evening,Weekday,3,2025-04-24 07:33:00,Audio + Visual
+Social,Colleague,Afternoon,Weekday,17,2025-04-24 20:26:00,Audio + Visual + Haptics
+Home,Colleague,Night,Weekday,27,2025-04-25 04:44:00,Audio + Haptics
+Home,Family,Evening,Weekend,19,2025-04-25 12:47:00,Audio + Visual + Haptics
+Home,Acquaintance,Night,Weekend,17,2025-04-25 23:18:00,Audio + Visual
+Work,Friend,Evening,Weekend,41,2025-04-26 09:34:00,Audio + Visual + Haptics
+Home,Friend,Evening,Weekday,41,2025-04-27 05:42:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekday,16,2025-04-27 22:48:00,Audio + Visual
+Social,Friend,Evening,Weekday,25,2025-04-28 14:39:00,Audio + Visual + Haptics
+Travel,Colleague,Afternoon,Weekend,27,2025-04-29 05:32:00,Audio + Haptics
+Home,Colleague,Night,Weekday,14,2025-04-29 15:38:00,Audio + Visual
+Work,Family,Evening,Weekday,43,2025-04-30 09:17:00,Audio + Visual + Haptics
+Work,Acquaintance,Evening,Weekend,15,2025-04-30 21:43:00,Audio + Visual
+Home,Family,Evening,Weekend,23,2025-05-01 14:17:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekend,8,2025-05-02 09:27:00,Audio + Visual
+Social,Friend,Morning,Weekday,29,2025-05-02 22:08:00,Audio + Visual
+Home,Acquaintance,Morning,Weekend,10,2025-05-03 14:28:00,Audio
+Work,Friend,Morning,Weekend,5,2025-05-04 09:47:00,Audio
+Travel,Acquaintance,Night,Weekday,13,2025-05-04 18:14:00,Audio + Haptics
+Social,Friend,Afternoon,Weekday,27,2025-05-05 12:31:00,Audio + Visual
+Home,Family,Afternoon,Weekday,13,2025-05-06 03:18:00,Audio + Visual
+Work,Acquaintance,Night,Weekday,25,2025-05-06 17:58:00,Audio + Visual
+Social,Friend,Afternoon,Weekend,37,2025-05-07 04:14:00,Audio + Visual + Haptics
+Travel,Friend,Evening,Weekday,21,2025-05-07 23:20:00,Visual + Haptics
+Travel,Acquaintance,Night,Weekday,10,2025-05-08 19:01:00,Audio + Haptics
+Social,Family,Evening,Weekday,38,2025-05-09 05:59:00,Audio + Visual + Haptics
+Travel,Friend,Evening,Weekday,23,2025-05-09 22:21:00,Visual + Haptics
+Travel,Acquaintance,Night,Weekday,26,2025-05-10 08:27:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekend,35,2025-05-11 00:02:00,Audio + Visual
+Home,Acquaintance,Afternoon,Weekend,14,2025-05-11 08:25:00,Audio
+Work,Friend,Night,Weekday,28,2025-05-11 16:46:00,Audio + Visual + Haptics
+Home,Friend,Night,Weekday,37,2025-05-12 05:16:00,Audio + Visual + Haptics
+Home,Acquaintance,Night,Weekday,28,2025-05-13 01:40:00,Audio + Visual
+Work,Family,Morning,Weekend,14,2025-05-13 13:02:00,Audio
+Home,Acquaintance,Night,Weekday,29,2025-05-14 00:32:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,23,2025-05-14 15:57:00,Visual + Haptics
+Work,Family,Morning,Weekend,10,2025-05-15 03:28:00,Audio
+Social,Acquaintance,Afternoon,Weekday,23,2025-05-15 22:24:00,Audio + Visual
+Work,Colleague,Morning,Weekday,38,2025-05-16 18:11:00,Audio + Visual + Haptics
+Social,Acquaintance,Afternoon,Weekday,26,2025-05-17 10:23:00,Audio + Visual
+Work,Friend,Morning,Weekend,19,2025-05-18 04:13:00,Audio + Visual
+Home,Acquaintance,Morning,Weekday,7,2025-05-18 17:02:00,Audio
+Travel,Acquaintance,Evening,Weekend,13,2025-05-19 07:53:00,Visual + Haptics
+Travel,Family,Evening,Weekend,11,2025-05-20 02:28:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,19,2025-05-20 13:32:00,Audio + Haptics
+Home,Friend,Morning,Weekend,8,2025-05-20 22:03:00,Audio + Visual
+Social,Colleague,Afternoon,Weekend,29,2025-05-21 06:37:00,Audio + Visual
+Work,Family,Night,Weekday,55,2025-05-21 22:14:00,Audio + Visual + Haptics
+Social,Friend,Night,Weekend,63,2025-05-22 14:20:00,Audio + Visual + Haptics
+Work,Acquaintance,Morning,Weekend,12,2025-05-23 02:57:00,Audio
+Social,Friend,Night,Weekend,55,2025-05-23 22:31:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Evening,Weekend,33,2025-05-24 09:51:00,Audio + Visual
+Social,Friend,Night,Weekend,33,2025-05-24 19:03:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekday,29,2025-05-25 11:16:00,Audio + Visual
+Social,Family,Night,Weekend,69,2025-05-26 05:03:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Colleague,Night,Weekend,14,2025-05-26 18:56:00,Audio + Haptics
+Travel,Colleague,Night,Weekday,22,2025-05-27 07:57:00,Audio + Haptics
+Work,Family,Evening,Weekday,35,2025-05-28 04:24:00,Audio + Visual + Haptics
+Social,Family,Morning,Weekday,29,2025-05-28 23:08:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekend,5,2025-05-29 19:32:00,Audio
+Home,Friend,Morning,Weekend,14,2025-05-30 12:13:00,Audio + Visual
+Home,Colleague,Afternoon,Weekend,11,2025-05-31 05:22:00,Audio
+Work,Acquaintance,Night,Weekend,9,2025-05-31 13:59:00,Audio + Visual
+Home,Friend,Night,Weekday,14,2025-06-01 07:38:00,Audio + Visual + Haptics
+Work,Family,Night,Weekday,38,2025-06-01 19:23:00,Audio + Visual + Haptics
+Work,Acquaintance,Morning,Weekend,8,2025-06-02 05:49:00,Audio
+Home,Colleague,Afternoon,Weekday,16,2025-06-02 21:02:00,Audio
+Travel,Colleague,Morning,Weekend,18,2025-06-03 09:27:00,Audio + Haptics
+Home,Colleague,Night,Weekend,15,2025-06-03 22:37:00,Audio + Visual
+Home,Colleague,Evening,Weekend,27,2025-06-04 15:07:00,Audio + Visual
+Home,Colleague,Night,Weekend,15,2025-06-05 08:58:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekend,13,2025-06-05 18:33:00,Audio + Haptics
+Work,Colleague,Night,Weekday,24,2025-06-06 15:13:00,Audio + Visual
+Travel,Friend,Evening,Weekday,24,2025-06-06 23:32:00,Visual + Haptics
+Travel,Friend,Evening,Weekend,14,2025-06-07 12:01:00,Visual + Haptics
+Work,Family,Night,Weekday,23,2025-06-08 08:24:00,Audio + Visual
+Home,Acquaintance,Evening,Weekend,43,2025-06-09 02:34:00,Audio + Visual + Haptics
+Home,Acquaintance,Afternoon,Weekend,7,2025-06-09 19:58:00,Audio
+Home,Colleague,Night,Weekend,26,2025-06-10 05:15:00,Audio + Visual + Haptics
+Social,Family,Evening,Weekday,44,2025-06-10 22:43:00,Audio + Visual + Haptics
+Travel,Family,Evening,Weekend,13,2025-06-11 13:58:00,Audio + Haptics
+Social,Acquaintance,Morning,Weekday,22,2025-06-12 05:10:00,Audio + Visual
+Home,Colleague,Night,Weekday,25,2025-06-12 17:54:00,Audio + Visual
+Work,Family,Morning,Weekend,15,2025-06-13 14:47:00,Audio
+Travel,Family,Afternoon,Weekday,26,2025-06-14 07:47:00,Audio + Haptics
+Work,Friend,Evening,Weekday,27,2025-06-14 17:24:00,Audio + Visual + Haptics
+Social,Friend,Afternoon,Weekday,13,2025-06-15 13:08:00,Audio
+Travel,Colleague,Night,Weekend,29,2025-06-16 03:50:00,Audio + Visual
+Home,Acquaintance,Afternoon,Weekend,11,2025-06-16 20:33:00,Audio
+Home,Family,Morning,Weekend,12,2025-06-17 16:22:00,Audio + Visual
+Home,Colleague,Evening,Weekend,17,2025-06-18 05:29:00,Audio + Visual
+Home,Friend,Evening,Weekday,38,2025-06-19 01:12:00,Audio + Visual + Haptics
+Work,Colleague,Night,Weekday,31,2025-06-19 21:45:00,Audio + Visual
+Work,Friend,Night,Weekday,35,2025-06-20 09:47:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekday,9,2025-06-20 18:27:00,Audio
+Social,Friend,Afternoon,Weekday,32,2025-06-21 07:23:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekday,17,2025-06-22 02:22:00,Audio + Haptics
+Travel,Acquaintance,Afternoon,Weekday,18,2025-06-22 19:18:00,Visual + Haptics
+Travel,Family,Night,Weekend,22,2025-06-23 03:29:00,Audio + Haptics
+Travel,Acquaintance,Night,Weekday,35,2025-06-23 12:33:00,Audio + Haptics
+Home,Family,Evening,Weekend,14,2025-06-23 23:16:00,Audio + Visual
+Work,Friend,Afternoon,Weekday,22,2025-06-24 13:31:00,Audio + Visual + Haptics
+Work,Friend,Morning,Weekend,7,2025-06-25 04:27:00,Audio
+Travel,Colleague,Night,Weekday,22,2025-06-25 16:58:00,Audio + Haptics
+Travel,Friend,Afternoon,Weekday,8,2025-06-26 02:03:00,Audio + Haptics
+Travel,Friend,Morning,Weekend,30,2025-06-26 20:10:00,Audio + Haptics
+Work,Family,Evening,Weekday,29,2025-06-27 10:31:00,Audio + Visual + Haptics
+Travel,Acquaintance,Night,Weekday,16,2025-06-27 22:31:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekday,16,2025-06-28 16:00:00,Audio + Haptics
+Social,Colleague,Morning,Weekday,15,2025-06-29 03:14:00,Audio + Visual
+Social,Family,Morning,Weekday,20,2025-06-29 19:00:00,Audio + Visual
+Home,Family,Afternoon,Weekend,30,2025-06-30 03:32:00,Audio + Visual
+Home,Family,Afternoon,Weekend,28,2025-06-30 19:38:00,Audio + Visual
+Home,Acquaintance,Night,Weekday,14,2025-07-01 07:12:00,Audio + Visual
+Social,Colleague,Morning,Weekday,38,2025-07-01 21:05:00,Audio + Visual + Haptics
+Home,Family,Night,Weekend,34,2025-07-02 06:43:00,Audio + Visual
+Travel,Family,Morning,Weekend,12,2025-07-02 19:41:00,Audio + Haptics
+Travel,Friend,Afternoon,Weekday,17,2025-07-03 15:55:00,Visual + Haptics
+Work,Friend,Evening,Weekend,31,2025-07-04 12:01:00,Audio + Visual
+Social,Colleague,Afternoon,Weekday,19,2025-07-04 23:44:00,Audio + Visual
+Home,Acquaintance,Evening,Weekend,22,2025-07-05 14:32:00,Audio + Visual
+Work,Acquaintance,Night,Weekend,17,2025-07-06 01:17:00,Audio + Visual
+Home,Acquaintance,Morning,Weekday,5,2025-07-06 15:48:00,Audio
+Home,Friend,Morning,Weekend,23,2025-07-07 05:16:00,Audio + Visual
+Work,Friend,Evening,Weekday,22,2025-07-08 00:50:00,Audio + Visual + Haptics
+Home,Acquaintance,Morning,Weekday,6,2025-07-08 15:46:00,Audio
+Home,Colleague,Afternoon,Weekend,13,2025-07-09 04:28:00,Audio
+Work,Friend,Afternoon,Weekday,20,2025-07-09 23:25:00,Audio + Visual
+Home,Family,Afternoon,Weekend,13,2025-07-10 12:54:00,Audio + Visual
+Social,Family,Morning,Weekday,23,2025-07-10 23:44:00,Audio + Visual
+Travel,Friend,Night,Weekday,20,2025-07-11 13:35:00,Audio + Haptics
+Social,Acquaintance,Night,Weekend,58,2025-07-12 01:45:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Morning,Weekday,13,2025-07-12 21:02:00,Audio
+Travel,Acquaintance,Morning,Weekday,17,2025-07-13 16:06:00,Audio + Haptics
+Home,Acquaintance,Night,Weekend,27,2025-07-14 10:55:00,Audio + Visual + Haptics
+Travel,Colleague,Afternoon,Weekday,17,2025-07-15 04:12:00,Audio + Haptics
+Social,Colleague,Morning,Weekday,21,2025-07-16 00:01:00,Audio + Visual
+Work,Friend,Afternoon,Weekday,23,2025-07-16 08:48:00,Audio + Visual
+Travel,Colleague,Night,Weekday,18,2025-07-16 20:00:00,Audio + Haptics
+Work,Colleague,Evening,Weekend,28,2025-07-17 05:08:00,Audio + Visual
+Social,Colleague,Afternoon,Weekend,30,2025-07-17 15:58:00,Audio + Visual
+Travel,Friend,Night,Weekday,21,2025-07-18 10:05:00,Audio + Haptics
+Social,Family,Afternoon,Weekend,15,2025-07-19 04:16:00,Audio + Visual
+Work,Family,Afternoon,Weekday,18,2025-07-19 16:24:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,34,2025-07-20 08:42:00,Audio + Visual + Haptics
+Travel,Colleague,Afternoon,Weekend,18,2025-07-20 20:25:00,Audio + Haptics
+Travel,Friend,Night,Weekday,18,2025-07-21 06:42:00,Audio + Haptics
+Social,Friend,Evening,Weekday,45,2025-07-21 23:48:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekday,15,2025-07-22 08:12:00,Audio + Visual
+Home,Friend,Morning,Weekday,9,2025-07-23 04:10:00,Audio
+Work,Acquaintance,Night,Weekend,20,2025-07-24 00:55:00,Audio + Visual
+Home,Friend,Night,Weekday,56,2025-07-24 12:23:00,Audio + Visual + Haptics
+Social,Acquaintance,Afternoon,Weekday,15,2025-07-25 03:36:00,Audio + Visual
+Work,Acquaintance,Night,Weekday,25,2025-07-25 15:44:00,Audio + Visual
+Work,Friend,Evening,Weekend,34,2025-07-26 05:55:00,Audio + Visual + Haptics
+Work,Colleague,Evening,Weekend,25,2025-07-26 16:54:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,30,2025-07-27 02:39:00,Audio + Visual + Haptics
+Home,Acquaintance,Morning,Weekend,5,2025-07-27 17:59:00,Audio
+Travel,Colleague,Morning,Weekend,26,2025-07-28 03:43:00,Audio + Haptics
+Home,Friend,Night,Weekday,39,2025-07-28 21:51:00,Audio + Visual + Haptics
+Home,Family,Morning,Weekend,19,2025-07-29 07:54:00,Audio + Visual
+Travel,Acquaintance,Night,Weekday,20,2025-07-29 23:16:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,17,2025-07-30 13:24:00,Audio + Haptics
+Home,Friend,Afternoon,Weekend,9,2025-07-31 00:10:00,Audio + Visual
+Home,Acquaintance,Night,Weekday,23,2025-07-31 12:27:00,Audio + Visual
+Home,Friend,Morning,Weekend,23,2025-08-01 07:33:00,Audio + Visual
+Social,Colleague,Evening,Weekend,46,2025-08-01 22:11:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Night,Weekday,15,2025-08-02 17:42:00,Audio + Visual
+Home,Family,Afternoon,Weekend,14,2025-08-03 02:22:00,Audio + Visual
+Travel,Acquaintance,Evening,Weekend,33,2025-08-03 15:54:00,Visual + Haptics
+Social,Colleague,Evening,Weekend,55,2025-08-04 04:04:00,Audio + Visual + Smell + Haptics
+Social,Friend,Morning,Weekday,35,2025-08-04 21:35:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,23,2025-08-05 17:12:00,Visual + Haptics
+Social,Friend,Night,Weekend,36,2025-08-06 01:32:00,Audio + Visual + Smell + Haptics
+Travel,Friend,Morning,Weekday,22,2025-08-06 18:04:00,Audio + Haptics
+Social,Acquaintance,Morning,Weekday,12,2025-08-07 07:12:00,Audio + Visual
+Work,Family,Morning,Weekend,16,2025-08-08 00:46:00,Audio
+Work,Acquaintance,Morning,Weekday,11,2025-08-08 21:43:00,Audio
+Travel,Acquaintance,Night,Weekend,23,2025-08-09 18:36:00,Audio + Haptics
+Home,Family,Afternoon,Weekday,23,2025-08-10 10:38:00,Visual + Haptics
+Home,Colleague,Night,Weekday,30,2025-08-11 01:04:00,Audio + Visual
+Social,Friend,Afternoon,Weekend,15,2025-08-11 19:01:00,Audio + Visual
+Social,Family,Evening,Weekend,60,2025-08-12 10:59:00,Audio + Visual + Smell + Haptics
+Travel,Family,Evening,Weekend,39,2025-08-12 23:14:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekday,7,2025-08-13 12:17:00,Audio
+Social,Acquaintance,Night,Weekend,28,2025-08-14 04:26:00,Audio + Visual + Smell + Haptics
+Home,Family,Night,Weekend,27,2025-08-14 13:13:00,Audio + Visual + Haptics
+Social,Friend,Morning,Weekday,23,2025-08-15 04:22:00,Audio + Visual
+Social,Friend,Morning,Weekday,17,2025-08-15 22:25:00,Audio + Visual
+Social,Acquaintance,Night,Weekend,36,2025-08-16 09:01:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Morning,Weekend,8,2025-08-16 18:50:00,Audio
+Work,Acquaintance,Night,Weekend,11,2025-08-17 06:46:00,Audio + Haptics
+Work,Family,Night,Weekday,29,2025-08-17 23:38:00,Audio + Visual + Haptics
+Social,Colleague,Evening,Weekend,58,2025-08-18 15:13:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Morning,Weekend,16,2025-08-18 23:51:00,Audio
+Work,Acquaintance,Morning,Weekend,9,2025-08-19 13:41:00,Audio
+Social,Family,Night,Weekend,64,2025-08-20 02:12:00,Audio + Visual + Smell + Taste + Haptics
+Work,Family,Afternoon,Weekday,32,2025-08-20 22:21:00,Audio + Visual
+Travel,Colleague,Morning,Weekend,18,2025-08-21 11:29:00,Audio + Haptics
+Social,Family,Evening,Weekend,52,2025-08-22 02:31:00,Audio + Visual + Smell + Haptics
+Travel,Family,Morning,Weekend,18,2025-08-22 15:58:00,Visual + Haptics
+Work,Acquaintance,Night,Weekday,14,2025-08-23 00:16:00,Audio + Visual
+Social,Friend,Afternoon,Weekend,32,2025-08-23 14:27:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekday,30,2025-08-24 06:16:00,Audio + Visual + Haptics
+Work,Acquaintance,Evening,Weekend,30,2025-08-24 18:59:00,Audio + Visual
+Work,Family,Morning,Weekend,6,2025-08-25 08:43:00,Audio
+Home,Friend,Evening,Weekday,36,2025-08-25 20:59:00,Audio + Visual + Haptics
+Social,Friend,Afternoon,Weekend,22,2025-08-26 11:51:00,Audio + Visual
+Home,Colleague,Evening,Weekend,35,2025-08-26 22:20:00,Audio + Visual
+Travel,Colleague,Night,Weekday,20,2025-08-27 17:31:00,Audio + Haptics
+Work,Family,Night,Weekday,42,2025-08-28 10:28:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekday,31,2025-08-29 06:56:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekday,9,2025-08-30 02:34:00,Audio
+Social,Family,Afternoon,Weekend,25,2025-08-30 23:21:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekend,19,2025-08-31 09:03:00,Audio
+Home,Friend,Afternoon,Weekend,8,2025-09-01 03:03:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,19,2025-09-01 11:50:00,Audio + Visual
+Home,Family,Morning,Weekend,15,2025-09-02 06:06:00,Audio + Visual
+Work,Acquaintance,Evening,Weekend,23,2025-09-02 19:41:00,Audio + Visual
+Work,Acquaintance,Evening,Weekend,4,2025-09-03 08:04:00,Audio + Visual
+Work,Family,Evening,Weekday,46,2025-09-04 02:28:00,Audio + Visual + Haptics
+Travel,Friend,Morning,Weekday,20,2025-09-04 11:25:00,Audio + Haptics
+Work,Colleague,Morning,Weekday,10,2025-09-04 20:09:00,Audio + Visual
+Home,Friend,Morning,Weekday,18,2025-09-05 11:13:00,Audio + Visual
+Travel,Friend,Afternoon,Weekday,15,2025-09-06 06:43:00,Visual + Haptics
+Social,Friend,Afternoon,Weekday,10,2025-09-07 01:37:00,Audio + Visual
+Work,Friend,Night,Weekday,42,2025-09-07 10:58:00,Audio + Visual + Haptics
+Home,Friend,Afternoon,Weekday,27,2025-09-07 21:31:00,Audio + Visual
+Work,Friend,Evening,Weekday,40,2025-09-08 13:35:00,Audio + Visual + Haptics
+Social,Family,Night,Weekend,69,2025-09-09 09:09:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Friend,Evening,Weekend,18,2025-09-10 03:03:00,Visual + Haptics
+Home,Colleague,Afternoon,Weekend,10,2025-09-10 14:07:00,Audio
+Home,Acquaintance,Evening,Weekend,22,2025-09-11 06:58:00,Audio + Visual
+Travel,Friend,Evening,Weekend,19,2025-09-12 01:56:00,Visual + Haptics
+Social,Family,Evening,Weekday,31,2025-09-12 13:56:00,Audio + Visual
+Work,Friend,Morning,Weekend,18,2025-09-13 08:19:00,Audio + Visual
+Work,Family,Afternoon,Weekday,22,2025-09-14 02:01:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,44,2025-09-14 15:29:00,Audio + Visual + Haptics
+Travel,Friend,Morning,Weekend,14,2025-09-15 12:18:00,Audio + Haptics
+Home,Colleague,Night,Weekend,15,2025-09-15 21:04:00,Audio + Visual
+Home,Acquaintance,Night,Weekday,14,2025-09-16 12:54:00,Audio + Visual
+Work,Acquaintance,Morning,Weekday,16,2025-09-16 22:31:00,Audio
+Social,Family,Afternoon,Weekend,8,2025-09-17 17:57:00,Audio + Visual
+Home,Acquaintance,Morning,Weekend,14,2025-09-18 09:28:00,Audio
+Social,Family,Evening,Weekend,60,2025-09-18 21:56:00,Audio + Visual + Smell + Haptics
+Social,Family,Morning,Weekday,22,2025-09-19 17:52:00,Audio + Visual
+Travel,Family,Afternoon,Weekday,11,2025-09-20 03:41:00,Audio + Haptics
+Social,Acquaintance,Morning,Weekday,30,2025-09-20 19:26:00,Audio + Visual
+Travel,Friend,Afternoon,Weekend,26,2025-09-21 15:57:00,Visual + Haptics
+Social,Family,Afternoon,Weekend,21,2025-09-22 05:42:00,Audio + Visual
+Social,Colleague,Afternoon,Weekend,17,2025-09-22 14:09:00,Audio + Visual
+Home,Friend,Afternoon,Weekday,29,2025-09-23 10:20:00,Audio + Visual + Haptics
+Work,Friend,Night,Weekday,11,2025-09-23 23:22:00,Audio + Visual + Haptics
+Travel,Family,Morning,Weekend,18,2025-09-24 11:25:00,Audio + Haptics
+Travel,Friend,Evening,Weekday,37,2025-09-25 08:07:00,Audio + Visual + Haptics
+Travel,Acquaintance,Evening,Weekend,14,2025-09-25 21:14:00,Visual + Haptics
+Home,Acquaintance,Afternoon,Weekend,33,2025-09-26 14:40:00,Audio + Visual
+Travel,Acquaintance,Morning,Weekday,26,2025-09-27 05:58:00,Audio + Haptics
+Social,Family,Evening,Weekday,31,2025-09-27 14:42:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekday,11,2025-09-28 02:16:00,Audio
+Work,Acquaintance,Morning,Weekend,13,2025-09-28 15:43:00,Audio
+Home,Friend,Evening,Weekday,38,2025-09-29 11:29:00,Audio + Visual + Haptics
+Work,Friend,Evening,Weekday,35,2025-09-30 07:47:00,Audio + Visual + Haptics
+Travel,Family,Night,Weekend,22,2025-09-30 21:59:00,Audio + Haptics
+Home,Friend,Morning,Weekday,24,2025-10-01 15:16:00,Audio + Visual
+Home,Friend,Morning,Weekend,13,2025-10-02 01:13:00,Audio + Visual
+Travel,Acquaintance,Evening,Weekend,15,2025-10-02 15:49:00,Visual + Haptics
+Work,Friend,Evening,Weekend,25,2025-10-03 01:09:00,Audio + Visual + Haptics
+Social,Friend,Evening,Weekday,43,2025-10-03 16:31:00,Audio + Visual + Haptics
+Social,Friend,Evening,Weekday,8,2025-10-04 10:59:00,Audio + Haptics
+Home,Colleague,Night,Weekday,20,2025-10-05 05:39:00,Audio + Visual
+Travel,Friend,Afternoon,Weekend,21,2025-10-05 19:18:00,Visual + Haptics
+Travel,Friend,Night,Weekday,23,2025-10-06 07:47:00,Audio + Haptics
+Home,Family,Evening,Weekend,25,2025-10-06 22:33:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekend,31,2025-10-07 12:01:00,Audio + Visual
+Travel,Acquaintance,Night,Weekend,30,2025-10-08 02:41:00,Audio + Haptics
+Travel,Friend,Morning,Weekend,50,2025-10-08 20:17:00,Audio + Visual + Smell + Haptics
+Travel,Colleague,Night,Weekend,13,2025-10-09 14:44:00,Audio + Haptics
+Home,Family,Afternoon,Weekday,34,2025-10-09 22:47:00,Audio + Visual
+Work,Colleague,Night,Weekday,9,2025-10-10 07:48:00,Audio + Visual
+Social,Acquaintance,Morning,Weekday,23,2025-10-11 04:07:00,Audio + Visual
+Home,Acquaintance,Evening,Weekday,16,2025-10-11 14:30:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekday,4,2025-10-12 00:25:00,Audio
+Social,Friend,Night,Weekend,56,2025-10-12 14:43:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Colleague,Afternoon,Weekend,28,2025-10-13 11:34:00,Audio + Haptics
+Home,Acquaintance,Night,Weekend,18,2025-10-14 00:44:00,Audio + Visual
+Home,Acquaintance,Morning,Weekday,8,2025-10-14 15:49:00,Audio
+Travel,Family,Night,Weekend,26,2025-10-15 04:19:00,Audio + Haptics
+Home,Family,Night,Weekend,36,2025-10-15 17:34:00,Audio + Visual + Haptics
+Travel,Acquaintance,Night,Weekend,17,2025-10-16 04:05:00,Audio + Haptics
+Home,Friend,Afternoon,Weekday,14,2025-10-16 18:07:00,Audio + Visual
+Work,Colleague,Morning,Weekday,19,2025-10-17 12:35:00,Audio + Visual
+Work,Colleague,Night,Weekday,26,2025-10-18 05:47:00,Audio + Visual
+Travel,Friend,Afternoon,Weekend,21,2025-10-18 22:37:00,Visual + Haptics
+Home,Family,Afternoon,Weekday,23,2025-10-19 17:29:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,31,2025-10-20 13:28:00,Audio + Haptics
+Travel,Colleague,Morning,Weekend,10,2025-10-21 00:06:00,Audio + Haptics
+Work,Family,Evening,Weekday,22,2025-10-21 08:49:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekday,17,2025-10-22 04:02:00,Audio
+Social,Family,Evening,Weekend,45,2025-10-23 00:09:00,Audio + Visual + Smell + Haptics
+Travel,Friend,Afternoon,Weekend,26,2025-10-23 12:56:00,Audio + Haptics
+Work,Colleague,Morning,Weekday,25,2025-10-24 05:51:00,Audio + Visual
+Work,Friend,Morning,Weekend,14,2025-10-24 22:11:00,Audio
+Social,Acquaintance,Afternoon,Weekday,16,2025-10-25 12:23:00,Audio + Visual
+Home,Colleague,Evening,Weekend,25,2025-10-26 02:40:00,Audio + Visual
+Work,Colleague,Evening,Weekend,33,2025-10-26 23:34:00,Audio + Visual
+Social,Colleague,Evening,Weekend,43,2025-10-27 09:09:00,Audio + Visual + Smell + Haptics
+Home,Friend,Afternoon,Weekend,17,2025-10-28 02:47:00,Audio + Visual
+Home,Friend,Afternoon,Weekend,31,2025-10-28 15:31:00,Audio + Visual + Haptics
+Travel,Family,Evening,Weekend,28,2025-10-29 04:30:00,Audio + Haptics
+Home,Family,Evening,Weekend,31,2025-10-29 13:57:00,Audio + Visual + Haptics
+Travel,Family,Afternoon,Weekday,24,2025-10-30 04:08:00,Audio + Haptics
+Social,Family,Night,Weekend,62,2025-10-30 13:20:00,Audio + Visual + Smell + Taste + Haptics
+Home,Friend,Night,Weekday,24,2025-10-31 07:39:00,Audio + Visual + Haptics
+Home,Family,Morning,Weekend,21,2025-10-31 18:38:00,Audio + Visual
+Home,Friend,Morning,Weekday,20,2025-11-01 04:10:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekend,24,2025-11-01 18:11:00,Audio + Haptics
+Work,Acquaintance,Afternoon,Weekday,4,2025-11-02 11:14:00,Audio
+Social,Family,Evening,Weekend,23,2025-11-03 00:22:00,Audio + Haptics
+Travel,Colleague,Morning,Weekend,19,2025-11-03 15:13:00,Audio + Haptics
+Work,Friend,Evening,Weekend,26,2025-11-04 02:55:00,Audio + Visual + Haptics
+Home,Family,Night,Weekday,46,2025-11-04 19:19:00,Audio + Visual + Haptics
+Social,Colleague,Morning,Weekday,13,2025-11-05 03:56:00,Audio + Visual
+Home,Friend,Morning,Weekend,21,2025-11-05 13:53:00,Audio + Visual
+Travel,Acquaintance,Morning,Weekday,22,2025-11-06 05:22:00,Audio + Haptics
+Social,Family,Afternoon,Weekday,22,2025-11-06 15:02:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekday,29,2025-11-06 23:15:00,Audio + Visual + Haptics
+Work,Family,Afternoon,Weekday,18,2025-11-07 10:53:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,31,2025-11-07 23:50:00,Audio + Visual + Haptics
+Work,Family,Night,Weekday,29,2025-11-08 18:56:00,Audio + Visual + Haptics
+Home,Family,Afternoon,Weekend,22,2025-11-09 03:43:00,Audio + Visual
+Home,Acquaintance,Afternoon,Weekend,24,2025-11-09 23:55:00,Audio + Visual
+Work,Acquaintance,Evening,Weekend,26,2025-11-10 17:30:00,Audio + Visual
+Home,Family,Night,Weekend,42,2025-11-11 12:53:00,Audio + Visual + Haptics
+Social,Friend,Morning,Weekday,6,2025-11-12 03:13:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekend,36,2025-11-12 19:40:00,Audio + Visual
+Social,Colleague,Evening,Weekend,50,2025-11-13 14:24:00,Audio + Visual + Smell + Haptics
+Travel,Family,Afternoon,Weekday,35,2025-11-13 22:38:00,Audio + Haptics
+Social,Family,Morning,Weekday,28,2025-11-14 19:33:00,Audio + Visual
+Work,Family,Evening,Weekend,22,2025-11-15 04:25:00,Audio + Visual + Haptics
+Work,Colleague,Morning,Weekday,55,2025-11-15 14:21:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Friend,Morning,Weekday,10,2025-11-16 03:55:00,Audio + Haptics
+Travel,Colleague,Night,Weekday,13,2025-11-16 18:00:00,Audio + Haptics
+Travel,Family,Morning,Weekday,21,2025-11-17 12:40:00,Audio + Haptics
+Home,Acquaintance,Night,Weekday,13,2025-11-18 01:41:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,30,2025-11-18 20:06:00,Visual + Haptics
+Work,Colleague,Evening,Weekday,27,2025-11-19 15:10:00,Audio + Visual
+Work,Family,Evening,Weekday,51,2025-11-20 05:21:00,Audio + Visual + Haptics
+Work,Colleague,Morning,Weekend,22,2025-11-20 14:37:00,Audio + Visual
+Social,Family,Night,Weekday,51,2025-11-20 22:52:00,Audio + Visual + Haptics
+Social,Friend,Afternoon,Weekend,23,2025-11-21 11:04:00,Audio + Visual
+Home,Family,Afternoon,Weekend,5,2025-11-22 04:30:00,Audio + Visual
+Home,Friend,Night,Weekday,37,2025-11-23 00:06:00,Audio + Visual + Haptics
+Travel,Friend,Afternoon,Weekend,28,2025-11-23 15:20:00,Visual + Haptics
+Home,Friend,Morning,Weekday,33,2025-11-24 03:58:00,Audio + Visual + Haptics
+Travel,Colleague,Evening,Weekend,24,2025-11-24 17:31:00,Audio + Haptics
+Home,Colleague,Evening,Weekend,17,2025-11-25 02:55:00,Audio + Visual
+Social,Acquaintance,Evening,Weekday,29,2025-11-25 11:23:00,Audio + Visual + Haptics
+Work,Colleague,Morning,Weekend,15,2025-11-26 05:16:00,Audio + Visual
+Social,Family,Night,Weekday,11,2025-11-26 14:22:00,Audio + Visual + Haptics
+Home,Acquaintance,Evening,Weekend,8,2025-11-27 07:36:00,Audio + Visual
+Home,Colleague,Afternoon,Weekend,3,2025-11-27 16:42:00,Audio
+Travel,Acquaintance,Evening,Weekday,37,2025-11-28 05:04:00,Visual + Haptics
+Home,Family,Morning,Weekday,18,2025-11-28 19:49:00,Audio + Visual
+Work,Family,Morning,Weekend,13,2025-11-29 06:52:00,Audio
+Home,Acquaintance,Morning,Weekend,6,2025-11-29 23:54:00,Audio
+Work,Acquaintance,Afternoon,Weekday,8,2025-11-30 11:55:00,Audio
+Work,Colleague,Evening,Weekend,26,2025-12-01 01:39:00,Audio + Visual
+Social,Colleague,Evening,Weekend,53,2025-12-01 13:35:00,Audio + Visual + Smell + Haptics
+Social,Colleague,Afternoon,Weekday,14,2025-12-02 05:20:00,Audio + Visual
+Travel,Friend,Morning,Weekend,17,2025-12-02 21:10:00,Audio + Haptics
+Social,Colleague,Evening,Weekday,31,2025-12-03 14:36:00,Audio + Visual + Haptics
+Work,Colleague,Evening,Weekday,20,2025-12-04 09:51:00,Audio + Visual
+Work,Family,Morning,Weekday,5,2025-12-05 04:09:00,Audio
+Work,Friend,Afternoon,Weekday,6,2025-12-06 00:52:00,Visual
+Social,Friend,Afternoon,Weekend,21,2025-12-06 12:49:00,Audio + Visual
+Social,Family,Evening,Weekend,29,2025-12-07 08:17:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Night,Weekend,22,2025-12-08 01:36:00,Audio + Visual
+Work,Friend,Morning,Weekday,44,2025-12-08 22:29:00,Audio + Visual + Haptics
+Work,Acquaintance,Morning,Weekday,9,2025-12-09 18:46:00,Audio
+Work,Friend,Night,Weekday,38,2025-12-10 10:36:00,Audio + Visual
+Home,Friend,Morning,Weekday,13,2025-12-10 22:22:00,Audio + Visual
+Travel,Acquaintance,Night,Weekend,17,2025-12-11 09:36:00,Audio + Haptics
+Social,Colleague,Morning,Weekend,8,2025-12-12 02:35:00,Audio + Visual
+Travel,Family,Afternoon,Weekday,36,2025-12-12 17:16:00,Audio + Haptics
+Travel,Friend,Evening,Weekend,13,2025-12-13 06:14:00,Visual + Haptics
+Social,Acquaintance,Afternoon,Weekday,17,2025-12-13 14:50:00,Audio + Visual
+Home,Family,Evening,Weekday,30,2025-12-14 04:32:00,Audio + Visual + Haptics
+Home,Friend,Morning,Weekend,32,2025-12-14 17:01:00,Audio + Visual
+Home,Friend,Afternoon,Weekend,19,2025-12-15 11:09:00,Audio + Visual
+Home,Friend,Afternoon,Weekend,16,2025-12-16 03:27:00,Audio + Visual
+Travel,Family,Evening,Weekend,11,2025-12-16 19:09:00,Audio + Haptics
+Work,Friend,Morning,Weekday,35,2025-12-17 08:59:00,Audio + Visual
+Home,Family,Night,Weekend,39,2025-12-18 02:35:00,Audio + Visual + Haptics
+Work,Acquaintance,Morning,Weekend,9,2025-12-18 14:29:00,Audio
+Travel,Family,Afternoon,Weekend,26,2025-12-19 00:28:00,Visual + Haptics
+Work,Colleague,Night,Weekend,13,2025-12-19 16:06:00,Audio + Visual
+Travel,Friend,Night,Weekday,28,2025-12-20 11:56:00,Audio + Haptics
+Social,Friend,Evening,Weekend,39,2025-12-21 01:39:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Night,Weekday,24,2025-12-21 22:09:00,Audio + Visual
+Home,Friend,Evening,Weekday,28,2025-12-22 07:18:00,Audio + Visual + Haptics
+Travel,Acquaintance,Night,Weekday,28,2025-12-23 02:21:00,Audio + Haptics
+Home,Acquaintance,Morning,Weekday,4,2025-12-23 15:43:00,Audio
+Social,Colleague,Afternoon,Weekend,17,2025-12-24 09:26:00,Audio + Visual
+Travel,Acquaintance,Morning,Weekday,13,2025-12-24 20:48:00,Audio + Haptics
+Travel,Acquaintance,Evening,Weekend,22,2025-12-25 15:34:00,Audio + Haptics
+Social,Family,Afternoon,Weekend,21,2025-12-26 12:00:00,Audio + Visual
+Social,Friend,Afternoon,Weekday,18,2025-12-27 06:45:00,Audio + Visual
+Home,Family,Afternoon,Weekday,10,2025-12-27 19:34:00,Audio + Visual
+Social,Acquaintance,Evening,Weekday,32,2025-12-28 12:48:00,Audio + Visual + Haptics
+Home,Friend,Afternoon,Weekday,17,2025-12-29 09:24:00,Audio + Visual
+Travel,Colleague,Evening,Weekend,17,2025-12-30 06:12:00,Audio + Haptics
+Home,Acquaintance,Evening,Weekday,18,2025-12-31 02:57:00,Audio + Visual
+Home,Colleague,Evening,Weekday,22,2025-12-31 18:23:00,Audio + Visual
+Home,Family,Evening,Weekday,23,2026-01-01 14:29:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekday,16,2026-01-02 04:37:00,Audio + Visual
+Work,Acquaintance,Evening,Weekend,12,2026-01-03 00:53:00,Audio
+Home,Family,Evening,Weekend,14,2026-01-03 19:05:00,Audio + Visual
+Work,Family,Evening,Weekend,18,2026-01-04 03:20:00,Audio + Visual + Haptics
+Travel,Colleague,Night,Weekday,10,2026-01-04 15:22:00,Audio + Haptics
+Travel,Family,Afternoon,Weekend,14,2026-01-04 23:56:00,Audio
+Work,Friend,Evening,Weekday,52,2026-01-05 17:29:00,Audio + Visual + Haptics
+Home,Family,Morning,Weekday,26,2026-01-06 09:38:00,Audio + Visual
+Home,Family,Evening,Weekday,25,2026-01-06 19:16:00,Audio + Visual + Haptics
+Work,Family,Evening,Weekend,20,2026-01-07 13:19:00,Audio + Visual + Haptics
+Social,Family,Night,Weekday,24,2026-01-07 23:45:00,Audio + Visual
+Home,Family,Morning,Weekend,48,2026-01-08 16:14:00,Audio + Visual + Haptics
+Travel,Colleague,Morning,Weekend,20,2026-01-09 01:03:00,Audio + Haptics
+Social,Family,Night,Weekend,65,2026-01-09 09:51:00,Audio + Visual + Smell + Taste + Haptics
+Social,Colleague,Afternoon,Weekend,13,2026-01-10 04:18:00,Audio + Visual
+Work,Family,Morning,Weekend,9,2026-01-10 14:50:00,Audio
+Travel,Friend,Afternoon,Weekend,31,2026-01-11 05:26:00,Visual + Haptics
+Home,Colleague,Afternoon,Weekend,16,2026-01-11 22:22:00,Audio
+Social,Friend,Night,Weekend,47,2026-01-12 15:20:00,Audio + Visual + Smell + Haptics
+Social,Colleague,Evening,Weekday,32,2026-01-12 23:54:00,Audio + Visual
+Travel,Colleague,Morning,Weekend,24,2026-01-13 18:43:00,Visual + Haptics
+Work,Colleague,Evening,Weekday,24,2026-01-14 04:29:00,Audio + Visual
+Work,Acquaintance,Afternoon,Weekday,15,2026-01-14 18:43:00,Audio
+Work,Friend,Afternoon,Weekend,15,2026-01-15 05:26:00,Audio + Visual
+Home,Family,Morning,Weekend,20,2026-01-16 00:31:00,Audio + Visual
+Travel,Acquaintance,Evening,Weekday,30,2026-01-16 19:35:00,Visual + Haptics
+Social,Family,Afternoon,Weekday,45,2026-01-17 13:55:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekend,19,2026-01-18 10:39:00,Audio + Visual
+Social,Colleague,Morning,Weekday,7,2026-01-18 21:21:00,Audio + Visual
+Home,Colleague,Night,Weekend,23,2026-01-19 05:47:00,Audio + Visual + Haptics
+Social,Colleague,Morning,Weekday,24,2026-01-20 02:08:00,Audio + Visual
+Social,Friend,Evening,Weekend,41,2026-01-20 18:46:00,Audio + Visual + Smell + Haptics
+Home,Colleague,Night,Weekday,19,2026-01-21 07:39:00,Audio + Visual
+Travel,Family,Night,Weekend,30,2026-01-21 22:01:00,Audio + Haptics
+Travel,Acquaintance,Night,Weekday,11,2026-01-22 17:53:00,Audio + Haptics
+Social,Acquaintance,Evening,Weekday,42,2026-01-23 03:55:00,Audio + Visual + Haptics
+Work,Friend,Night,Weekday,29,2026-01-23 16:16:00,Audio + Visual + Haptics
+Home,Colleague,Night,Weekend,6,2026-01-24 06:19:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,15,2026-01-24 15:47:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,20,2026-01-25 12:06:00,Audio + Haptics
+Work,Friend,Morning,Weekend,11,2026-01-26 03:50:00,Audio
+Work,Friend,Morning,Weekend,10,2026-01-26 19:07:00,Audio
+Social,Friend,Morning,Weekend,24,2026-01-27 07:53:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekend,2,2026-01-27 21:33:00,Audio + Visual
+Social,Acquaintance,Morning,Weekday,15,2026-01-28 18:21:00,Audio + Visual
+Work,Family,Morning,Weekday,8,2026-01-29 06:19:00,Audio
+Home,Acquaintance,Morning,Weekend,7,2026-01-29 15:58:00,Audio
+Social,Family,Morning,Weekday,37,2026-01-30 01:44:00,Audio + Visual
+Social,Acquaintance,Night,Weekend,51,2026-01-30 11:57:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Morning,Weekday,8,2026-01-31 01:58:00,Audio
+Social,Colleague,Morning,Weekend,22,2026-01-31 19:49:00,Audio + Visual
+Travel,Family,Evening,Weekend,28,2026-02-01 07:44:00,Audio + Haptics
+Social,Family,Evening,Weekday,46,2026-02-02 01:44:00,Audio + Visual + Haptics
+Home,Colleague,Evening,Weekday,28,2026-02-02 18:57:00,Audio + Visual
+Work,Friend,Evening,Weekend,17,2026-02-03 14:11:00,Audio + Visual + Haptics
+Work,Colleague,Morning,Weekend,30,2026-02-04 06:32:00,Audio + Visual
+Home,Friend,Evening,Weekday,14,2026-02-04 14:50:00,Audio
+Social,Friend,Evening,Weekday,24,2026-02-05 10:20:00,Audio + Visual + Haptics
+Travel,Colleague,Afternoon,Weekday,30,2026-02-06 04:39:00,Visual + Haptics
+Home,Friend,Evening,Weekday,23,2026-02-07 00:24:00,Audio + Visual + Haptics
+Social,Colleague,Evening,Weekend,15,2026-02-07 19:56:00,Audio + Visual
+Work,Friend,Evening,Weekday,40,2026-02-08 03:56:00,Audio + Visual + Haptics
+Travel,Acquaintance,Night,Weekday,11,2026-02-08 14:29:00,Audio + Haptics
+Work,Colleague,Night,Weekday,25,2026-02-09 05:03:00,Audio + Visual
+Social,Colleague,Morning,Weekend,20,2026-02-09 19:32:00,Audio + Visual
+Home,Friend,Night,Weekday,36,2026-02-10 06:47:00,Audio + Visual + Haptics
+Social,Friend,Evening,Weekend,36,2026-02-11 01:59:00,Audio + Visual + Smell + Haptics
+Home,Colleague,Night,Weekday,17,2026-02-11 14:03:00,Audio + Visual
+Work,Acquaintance,Evening,Weekday,20,2026-02-12 09:37:00,Audio + Visual
+Social,Friend,Night,Weekend,49,2026-02-13 06:19:00,Audio + Visual + Smell + Haptics
+Social,Acquaintance,Evening,Weekday,29,2026-02-13 21:41:00,Audio + Visual
+Work,Acquaintance,Night,Weekday,18,2026-02-14 09:57:00,Audio + Visual
+Social,Friend,Evening,Weekday,20,2026-02-15 02:54:00,Audio + Visual + Haptics
+Work,Family,Morning,Weekday,12,2026-02-15 17:19:00,Audio
+Travel,Colleague,Afternoon,Weekday,18,2026-02-16 04:58:00,Audio + Haptics
+Social,Acquaintance,Night,Weekday,33,2026-02-16 21:49:00,Audio + Visual + Haptics
+Work,Colleague,Night,Weekend,34,2026-02-17 07:29:00,Audio + Visual
+Work,Colleague,Night,Weekday,16,2026-02-18 02:23:00,Audio + Visual
+Social,Friend,Morning,Weekend,10,2026-02-18 16:11:00,Audio + Visual
+Home,Family,Evening,Weekend,18,2026-02-19 05:05:00,Audio + Visual
+Travel,Family,Morning,Weekend,8,2026-02-19 20:25:00,Audio
+Social,Acquaintance,Morning,Weekday,14,2026-02-20 10:44:00,Audio + Visual
+Travel,Friend,Afternoon,Weekday,30,2026-02-21 07:09:00,Audio + Haptics
+Work,Friend,Afternoon,Weekend,13,2026-02-21 19:41:00,Audio + Visual
+Social,Family,Afternoon,Weekend,30,2026-02-22 10:53:00,Audio + Visual + Haptics
+Home,Family,Night,Weekday,20,2026-02-23 02:12:00,Audio + Visual
+Work,Acquaintance,Morning,Weekend,12,2026-02-23 21:19:00,Audio
+Home,Acquaintance,Evening,Weekday,23,2026-02-24 08:52:00,Audio + Visual
+Travel,Colleague,Evening,Weekend,21,2026-02-25 04:09:00,Audio + Haptics
+Home,Colleague,Evening,Weekday,9,2026-02-25 15:17:00,Audio + Visual
+Social,Friend,Morning,Weekday,10,2026-02-26 10:32:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekend,18,2026-02-27 00:36:00,Audio + Haptics
+Work,Family,Night,Weekday,34,2026-02-27 20:46:00,Audio + Visual + Haptics
+Work,Family,Evening,Weekday,50,2026-02-28 06:07:00,Audio + Visual + Smell + Taste + Haptics
+Work,Colleague,Morning,Weekend,60,2026-02-28 20:44:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Family,Morning,Weekday,31,2026-03-01 08:56:00,Visual + Haptics
+Work,Friend,Afternoon,Weekday,27,2026-03-01 20:41:00,Audio + Visual
+Home,Family,Morning,Weekday,17,2026-03-02 04:55:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,31,2026-03-02 21:02:00,Audio + Visual + Haptics
+Social,Family,Night,Weekend,61,2026-03-03 14:07:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Family,Night,Weekend,25,2026-03-04 02:06:00,Audio + Haptics
+Travel,Acquaintance,Afternoon,Weekday,18,2026-03-04 16:45:00,Visual + Haptics
+Travel,Acquaintance,Evening,Weekday,11,2026-03-05 09:03:00,Visual + Haptics
+Travel,Colleague,Night,Weekend,21,2026-03-05 18:54:00,Audio + Haptics
+Home,Family,Afternoon,Weekday,25,2026-03-06 14:30:00,Audio + Visual
+Work,Colleague,Night,Weekend,21,2026-03-07 01:39:00,Audio + Visual
+Social,Family,Evening,Weekend,48,2026-03-07 20:38:00,Audio + Visual + Smell + Haptics
+Travel,Family,Afternoon,Weekday,21,2026-03-08 15:01:00,Audio + Haptics
+Travel,Family,Morning,Weekday,10,2026-03-09 03:14:00,Audio + Haptics
+Travel,Friend,Morning,Weekend,20,2026-03-09 11:44:00,Audio + Haptics
+Travel,Friend,Evening,Weekend,25,2026-03-10 06:27:00,Visual + Haptics
+Social,Acquaintance,Afternoon,Weekend,32,2026-03-10 23:48:00,Audio + Visual
+Travel,Friend,Afternoon,Weekday,14,2026-03-11 18:51:00,Visual + Haptics
+Travel,Friend,Night,Weekday,23,2026-03-12 15:24:00,Visual + Haptics
+Travel,Colleague,Night,Weekend,29,2026-03-13 01:12:00,Audio + Haptics
+Home,Colleague,Afternoon,Weekday,30,2026-03-13 19:14:00,Audio + Visual + Haptics
+Home,Family,Night,Weekday,48,2026-03-14 15:40:00,Audio + Visual + Haptics
+Work,Family,Afternoon,Weekday,16,2026-03-15 02:16:00,Audio + Visual
+Home,Acquaintance,Evening,Weekend,16,2026-03-15 21:43:00,Audio + Visual
+Travel,Friend,Evening,Weekday,25,2026-03-16 14:29:00,Visual + Haptics
+Social,Acquaintance,Night,Weekend,51,2026-03-17 00:11:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Evening,Weekday,40,2026-03-17 16:41:00,Audio + Visual + Haptics
+Home,Friend,Afternoon,Weekday,25,2026-03-18 02:50:00,Audio + Visual
+Social,Family,Evening,Weekday,34,2026-03-18 22:28:00,Audio + Visual + Haptics
+Social,Friend,Morning,Weekend,29,2026-03-19 14:00:00,Audio + Visual
+Social,Colleague,Evening,Weekday,41,2026-03-20 10:31:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekday,7,2026-03-21 07:13:00,Audio
+Travel,Acquaintance,Evening,Weekend,30,2026-03-21 17:12:00,Audio + Haptics
+Work,Acquaintance,Evening,Weekday,20,2026-03-22 08:13:00,Audio + Visual
+Work,Colleague,Night,Weekend,5,2026-03-23 05:05:00,Audio + Visual
+Travel,Family,Afternoon,Weekend,25,2026-03-23 20:54:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekend,12,2026-03-24 06:51:00,Audio
+Work,Colleague,Evening,Weekday,23,2026-03-24 20:28:00,Audio + Visual
+Home,Friend,Afternoon,Weekday,46,2026-03-25 08:16:00,Audio + Visual + Haptics
+Work,Colleague,Evening,Weekend,32,2026-03-25 19:54:00,Audio + Visual + Haptics
+Work,Colleague,Morning,Weekday,44,2026-03-26 10:42:00,Audio + Visual + Haptics
+Work,Friend,Afternoon,Weekend,26,2026-03-27 02:44:00,Audio + Visual
+Social,Family,Afternoon,Weekday,14,2026-03-27 22:28:00,Audio + Haptics
+Travel,Friend,Evening,Weekday,27,2026-03-28 14:15:00,Visual + Haptics
+Home,Colleague,Evening,Weekend,18,2026-03-29 02:37:00,Audio + Visual
+Social,Friend,Afternoon,Weekday,33,2026-03-29 22:03:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,17,2026-03-30 10:16:00,Audio + Visual
+Travel,Acquaintance,Night,Weekend,13,2026-03-31 05:44:00,Audio + Haptics
+Travel,Family,Morning,Weekend,22,2026-03-31 21:05:00,Audio + Haptics
+Work,Acquaintance,Night,Weekday,24,2026-04-01 08:04:00,Audio + Visual + Haptics
+Home,Colleague,Night,Weekday,30,2026-04-01 20:42:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Evening,Weekend,25,2026-04-02 16:27:00,Audio + Visual
+Work,Acquaintance,Morning,Weekday,2,2026-04-03 01:08:00,Audio
+Home,Acquaintance,Morning,Weekday,15,2026-04-03 21:47:00,Audio
+Home,Friend,Morning,Weekend,8,2026-04-04 08:36:00,Audio + Visual
+Work,Friend,Morning,Weekday,11,2026-04-04 19:15:00,Audio + Visual
+Social,Family,Evening,Weekend,34,2026-04-05 04:48:00,Audio + Visual + Smell + Haptics
+Travel,Acquaintance,Night,Weekend,13,2026-04-05 23:49:00,Audio + Haptics
+Home,Friend,Night,Weekday,35,2026-04-06 15:21:00,Audio + Visual + Haptics
+Work,Colleague,Afternoon,Weekday,23,2026-04-07 08:50:00,Audio + Visual
+Travel,Family,Night,Weekday,22,2026-04-07 17:31:00,Audio + Haptics
+Travel,Acquaintance,Morning,Weekend,11,2026-04-08 05:05:00,Visual
+Social,Family,Evening,Weekday,34,2026-04-08 19:14:00,Audio + Visual + Haptics
+Travel,Colleague,Morning,Weekend,15,2026-04-09 05:21:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekend,10,2026-04-09 23:58:00,Audio
+Travel,Acquaintance,Morning,Weekend,7,2026-04-10 17:19:00,Visual
+Home,Colleague,Afternoon,Weekend,14,2026-04-11 02:02:00,Audio
+Work,Friend,Morning,Weekend,46,2026-04-11 14:37:00,Audio + Visual + Haptics
+Home,Colleague,Evening,Weekday,12,2026-04-12 10:58:00,Audio + Visual
+Travel,Friend,Afternoon,Weekend,20,2026-04-13 02:03:00,Visual + Haptics
+Work,Friend,Afternoon,Weekday,22,2026-04-13 22:49:00,Audio + Visual
+Work,Colleague,Morning,Weekend,27,2026-04-14 16:45:00,Audio + Visual
+Travel,Family,Afternoon,Weekend,13,2026-04-15 13:26:00,Audio + Haptics
+Travel,Colleague,Evening,Weekday,20,2026-04-16 08:11:00,Audio + Haptics
+Social,Family,Evening,Weekend,39,2026-04-16 16:57:00,Audio + Visual + Smell + Haptics
+Home,Family,Night,Weekend,31,2026-04-17 11:31:00,Audio + Visual + Haptics
+Home,Colleague,Morning,Weekend,10,2026-04-18 06:13:00,Audio
+Home,Acquaintance,Evening,Weekday,18,2026-04-18 17:32:00,Audio + Visual
+Social,Friend,Evening,Weekend,25,2026-04-19 07:55:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekday,9,2026-04-20 03:25:00,Audio
+Social,Friend,Afternoon,Weekday,28,2026-04-20 17:50:00,Audio + Visual
+Social,Friend,Evening,Weekday,27,2026-04-21 10:49:00,Audio + Visual + Haptics
+Social,Friend,Night,Weekday,29,2026-04-21 23:01:00,Audio + Visual + Haptics
+Travel,Family,Morning,Weekday,7,2026-04-22 19:37:00,Audio + Haptics
+Work,Acquaintance,Afternoon,Weekday,21,2026-04-23 08:58:00,Audio
+Social,Friend,Night,Weekend,64,2026-04-23 19:26:00,Audio + Visual + Smell + Taste + Haptics
+Home,Friend,Evening,Weekday,30,2026-04-24 15:29:00,Audio + Visual + Haptics
+Travel,Colleague,Morning,Weekend,26,2026-04-25 02:44:00,Visual + Haptics
+Work,Colleague,Evening,Weekend,16,2026-04-25 20:05:00,Audio + Visual
+Home,Acquaintance,Morning,Weekend,6,2026-04-26 17:02:00,Audio
+Travel,Friend,Morning,Weekend,12,2026-04-27 02:22:00,Audio + Haptics
+Social,Colleague,Night,Weekend,46,2026-04-27 20:08:00,Audio + Visual + Smell + Haptics
+Social,Acquaintance,Afternoon,Weekend,12,2026-04-28 11:18:00,Audio + Visual
+Work,Colleague,Morning,Weekend,32,2026-04-29 05:58:00,Audio + Visual
+Work,Friend,Afternoon,Weekend,13,2026-04-29 16:32:00,Audio + Visual
+Work,Acquaintance,Night,Weekend,26,2026-04-30 10:39:00,Audio + Visual
+Social,Acquaintance,Night,Weekday,40,2026-05-01 03:11:00,Audio + Visual + Haptics
+Travel,Family,Night,Weekend,26,2026-05-01 15:27:00,Audio + Haptics
+Home,Family,Night,Weekday,11,2026-05-02 04:28:00,Audio + Haptics
+Travel,Acquaintance,Evening,Weekday,15,2026-05-03 00:47:00,Visual + Haptics
+Work,Colleague,Night,Weekend,19,2026-05-03 10:10:00,Audio + Visual
+Social,Family,Afternoon,Weekend,43,2026-05-03 18:43:00,Audio + Visual + Haptics
+Work,Friend,Evening,Weekend,37,2026-05-04 05:57:00,Audio + Visual + Haptics
+Social,Acquaintance,Morning,Weekday,21,2026-05-04 14:04:00,Audio + Visual
+Home,Family,Night,Weekday,29,2026-05-05 04:25:00,Audio + Visual + Haptics
+Travel,Friend,Afternoon,Weekday,21,2026-05-05 20:25:00,Visual + Haptics
+Work,Colleague,Afternoon,Weekend,17,2026-05-06 05:43:00,Audio + Visual
+Social,Acquaintance,Evening,Weekend,68,2026-05-07 01:24:00,Audio + Visual + Smell + Haptics
+Travel,Friend,Night,Weekend,17,2026-05-07 20:26:00,Audio + Haptics
+Social,Friend,Evening,Weekday,37,2026-05-08 10:53:00,Audio + Visual + Haptics
+Social,Family,Afternoon,Weekday,7,2026-05-09 01:07:00,Audio + Visual
+Work,Friend,Morning,Weekday,13,2026-05-09 17:11:00,Audio
+Work,Family,Morning,Weekend,11,2026-05-10 03:52:00,Audio
+Work,Colleague,Afternoon,Weekend,14,2026-05-10 20:22:00,Audio + Visual
+Work,Colleague,Afternoon,Weekend,13,2026-05-11 09:26:00,Audio + Visual
+Social,Family,Evening,Weekday,25,2026-05-11 19:55:00,Audio + Visual + Haptics
+Travel,Colleague,Night,Weekday,18,2026-05-12 06:57:00,Audio + Haptics
+Work,Family,Afternoon,Weekend,27,2026-05-12 23:04:00,Audio + Visual + Smell + Haptics
+Home,Friend,Afternoon,Weekday,29,2026-05-13 08:47:00,Audio + Visual
+Work,Family,Night,Weekday,39,2026-05-13 16:58:00,Audio + Visual + Haptics
+Home,Friend,Evening,Weekend,11,2026-05-14 05:51:00,Audio + Visual
+Social,Family,Night,Weekday,30,2026-05-15 02:33:00,Audio + Visual + Haptics
+Home,Friend,Night,Weekend,38,2026-05-15 20:07:00,Audio + Visual + Haptics
+Work,Friend,Afternoon,Weekend,21,2026-05-16 07:27:00,Audio + Visual
+Social,Colleague,Morning,Weekday,6,2026-05-17 03:41:00,Audio + Visual
+Travel,Family,Evening,Weekday,17,2026-05-17 23:51:00,Audio + Haptics
+Social,Family,Night,Weekday,37,2026-05-18 18:59:00,Audio + Visual + Haptics
+Travel,Acquaintance,Evening,Weekday,26,2026-05-19 10:20:00,Visual + Haptics
+Travel,Family,Morning,Weekend,28,2026-05-20 04:29:00,Audio + Haptics
+Home,Friend,Afternoon,Weekend,23,2026-05-20 18:56:00,Audio + Visual + Haptics
+Home,Family,Morning,Weekday,24,2026-05-21 08:28:00,Audio + Visual
+Home,Colleague,Evening,Weekend,16,2026-05-21 20:01:00,Audio + Visual
+Travel,Family,Evening,Weekend,24,2026-05-22 04:44:00,Audio + Visual + Haptics
+Work,Family,Evening,Weekday,16,2026-05-22 21:16:00,Visual + Haptics
+Home,Colleague,Afternoon,Weekday,16,2026-05-23 15:16:00,Audio
+Social,Colleague,Night,Weekend,53,2026-05-24 09:32:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Evening,Weekday,21,2026-05-24 23:20:00,Audio + Visual
+Travel,Acquaintance,Evening,Weekend,18,2026-05-25 18:10:00,Visual + Haptics
+Social,Colleague,Morning,Weekend,22,2026-05-26 05:36:00,Audio + Visual
+Social,Colleague,Evening,Weekday,23,2026-05-26 13:58:00,Audio + Visual + Haptics
+Work,Family,Evening,Weekday,37,2026-05-27 01:57:00,Audio + Visual + Haptics
+Work,Friend,Evening,Weekday,24,2026-05-27 19:00:00,Audio + Visual
+Travel,Friend,Evening,Weekend,14,2026-05-28 06:32:00,Visual + Haptics
+Home,Colleague,Evening,Weekend,12,2026-05-28 15:02:00,Audio + Visual
+Travel,Colleague,Evening,Weekend,24,2026-05-29 06:23:00,Audio + Haptics
+Work,Acquaintance,Morning,Weekday,13,2026-05-29 21:56:00,Audio
+Work,Acquaintance,Morning,Weekend,10,2026-05-30 07:06:00,Audio
+Social,Family,Morning,Weekend,19,2026-05-30 23:25:00,Audio + Visual
+Home,Friend,Night,Weekend,44,2026-05-31 18:15:00,Audio + Visual + Haptics
+Travel,Family,Afternoon,Weekday,18,2026-06-01 12:16:00,Audio + Haptics
+Social,Friend,Night,Weekday,32,2026-06-01 23:13:00,Audio + Visual + Haptics
+Travel,Acquaintance,Afternoon,Weekend,12,2026-06-02 14:59:00,Visual + Haptics
+Social,Acquaintance,Morning,Weekend,24,2026-06-03 02:48:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,13,2026-06-03 13:07:00,Audio + Visual
+Work,Colleague,Morning,Weekday,5,2026-06-04 06:53:00,Audio + Visual
+Home,Acquaintance,Afternoon,Weekday,22,2026-06-04 20:27:00,Audio + Visual
+Work,Friend,Night,Weekend,49,2026-06-05 05:17:00,Audio + Visual + Haptics
+Travel,Family,Evening,Weekend,20,2026-06-05 16:10:00,Audio + Haptics
+Travel,Acquaintance,Night,Weekend,7,2026-06-06 04:01:00,Audio + Haptics
+Home,Friend,Morning,Weekend,14,2026-06-06 15:44:00,Audio + Visual
+Travel,Acquaintance,Afternoon,Weekday,46,2026-06-07 06:36:00,Audio + Visual + Haptics
+Work,Friend,Evening,Weekday,39,2026-06-08 00:08:00,Audio + Visual + Haptics
+Work,Friend,Morning,Weekday,6,2026-06-08 14:18:00,Audio
+Travel,Family,Night,Weekend,18,2026-06-09 04:51:00,Audio + Haptics
+Travel,Acquaintance,Night,Weekday,28,2026-06-10 01:34:00,Audio + Haptics
+Home,Family,Morning,Weekend,10,2026-06-10 13:52:00,Audio + Visual
+Work,Family,Morning,Weekday,12,2026-06-11 00:11:00,Audio
+Travel,Acquaintance,Evening,Weekend,14,2026-06-11 15:15:00,Visual + Haptics
+Work,Family,Night,Weekend,54,2026-06-12 01:10:00,Audio + Visual + Haptics
+Home,Family,Afternoon,Weekend,27,2026-06-12 11:23:00,Audio + Visual
+Travel,Friend,Morning,Weekend,19,2026-06-13 01:59:00,Audio + Haptics
+Work,Friend,Evening,Weekend,33,2026-06-13 19:10:00,Audio + Visual + Haptics
+Home,Friend,Evening,Weekend,27,2026-06-14 11:39:00,Audio + Visual + Haptics
+Social,Family,Morning,Weekend,16,2026-06-14 22:57:00,Audio + Visual
+Home,Acquaintance,Night,Weekday,29,2026-06-15 09:36:00,Audio + Visual
+Social,Family,Afternoon,Weekend,32,2026-06-16 06:27:00,Audio + Visual + Haptics
+Home,Acquaintance,Morning,Weekday,15,2026-06-16 15:20:00,Audio
+Travel,Colleague,Evening,Weekday,15,2026-06-17 06:09:00,Audio + Haptics
+Social,Colleague,Night,Weekend,60,2026-06-17 21:19:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Morning,Weekday,9,2026-06-18 17:18:00,Audio
+Travel,Colleague,Morning,Weekday,27,2026-06-19 14:03:00,Audio + Haptics
+Social,Friend,Morning,Weekend,21,2026-06-20 07:34:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekend,12,2026-06-21 03:42:00,Audio + Haptics
+Social,Acquaintance,Evening,Weekend,22,2026-06-21 21:47:00,Audio + Visual + Haptics
+Travel,Colleague,Afternoon,Weekend,19,2026-06-22 05:50:00,Audio + Haptics
+Travel,Friend,Morning,Weekday,23,2026-06-23 00:16:00,Audio + Haptics
+Social,Colleague,Afternoon,Weekday,23,2026-06-23 18:07:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekday,18,2026-06-24 03:21:00,Audio + Visual
+Work,Family,Morning,Weekday,10,2026-06-24 17:37:00,Audio
+Social,Colleague,Afternoon,Weekday,15,2026-06-25 01:53:00,Audio + Visual
+Work,Family,Night,Weekday,28,2026-06-25 12:39:00,Audio + Visual + Haptics
+Work,Colleague,Night,Weekday,35,2026-06-26 01:09:00,Audio + Visual
+Travel,Colleague,Afternoon,Weekday,17,2026-06-26 21:01:00,Audio + Haptics
+Travel,Family,Evening,Weekday,29,2026-06-27 09:10:00,Audio + Haptics
+Work,Family,Morning,Weekend,24,2026-06-27 18:58:00,Audio + Haptics
+Travel,Colleague,Afternoon,Weekday,13,2026-06-28 14:55:00,Audio + Haptics
+Home,Friend,Night,Weekday,39,2026-06-29 01:17:00,Audio + Visual + Haptics
+Travel,Friend,Afternoon,Weekday,32,2026-06-29 17:33:00,Visual + Haptics
+Social,Acquaintance,Evening,Weekend,45,2026-06-30 08:52:00,Audio + Visual + Smell + Haptics
+Travel,Acquaintance,Morning,Weekend,6,2026-07-01 01:31:00,Visual
+Home,Colleague,Morning,Weekday,16,2026-07-01 15:00:00,Audio
+Work,Family,Night,Weekend,32,2026-07-02 03:33:00,Audio + Visual + Haptics
+Travel,Friend,Morning,Weekday,22,2026-07-02 16:42:00,Audio + Haptics
+Social,Colleague,Evening,Weekend,62,2026-07-03 10:14:00,Audio + Visual + Smell + Haptics
+Home,Acquaintance,Night,Weekend,19,2026-07-03 18:52:00,Audio + Visual
+Social,Acquaintance,Evening,Weekday,45,2026-07-04 14:20:00,Audio + Visual + Haptics
+Travel,Family,Morning,Weekday,26,2026-07-05 05:58:00,Audio + Haptics
+Travel,Family,Night,Weekday,10,2026-07-06 01:43:00,Audio + Haptics
+Home,Acquaintance,Night,Weekday,24,2026-07-06 21:41:00,Audio + Visual
+Work,Acquaintance,Afternoon,Weekday,14,2026-07-07 17:43:00,Audio
+Work,Acquaintance,Evening,Weekday,38,2026-07-08 14:40:00,Audio + Visual + Haptics
+Home,Colleague,Afternoon,Weekend,9,2026-07-09 01:11:00,Audio
+Social,Colleague,Evening,Weekday,28,2026-07-09 15:14:00,Audio + Visual
+Travel,Friend,Evening,Weekday,23,2026-07-10 02:04:00,Visual + Haptics
+Work,Acquaintance,Evening,Weekday,33,2026-07-10 19:43:00,Audio + Visual + Haptics
+Home,Friend,Evening,Weekend,31,2026-07-11 12:10:00,Audio + Visual + Haptics
+Home,Friend,Afternoon,Weekday,24,2026-07-11 23:01:00,Audio + Visual
+Social,Friend,Night,Weekend,43,2026-07-12 09:42:00,Audio + Visual + Smell + Haptics
+Travel,Acquaintance,Afternoon,Weekend,22,2026-07-12 23:48:00,Visual + Haptics
+Work,Friend,Night,Weekday,31,2026-07-13 10:46:00,Audio + Visual + Haptics
+Work,Acquaintance,Afternoon,Weekend,15,2026-07-14 00:12:00,Audio
+Travel,Acquaintance,Night,Weekday,16,2026-07-14 14:10:00,Audio + Haptics
+Home,Family,Night,Weekend,27,2026-07-15 04:44:00,Audio + Visual + Haptics
+Home,Colleague,Night,Weekday,22,2026-07-15 21:56:00,Audio + Visual
+Travel,Colleague,Evening,Weekend,17,2026-07-16 06:47:00,Audio + Haptics
+Social,Colleague,Morning,Weekday,12,2026-07-16 23:03:00,Audio + Visual
+Travel,Colleague,Night,Weekday,31,2026-07-17 16:48:00,Audio + Haptics
+Home,Acquaintance,Evening,Weekend,19,2026-07-18 01:31:00,Audio + Visual
+Social,Family,Night,Weekend,63,2026-07-18 11:50:00,Audio + Visual + Smell + Taste + Haptics
+Home,Family,Morning,Weekday,15,2026-07-19 02:56:00,Audio + Visual + Haptics
+Travel,Colleague,Night,Weekend,5,2026-07-19 12:53:00,Audio + Haptics
+Travel,Acquaintance,Morning,Weekday,7,2026-07-20 05:58:00,Audio + Haptics
+Social,Colleague,Night,Weekday,35,2026-07-21 01:40:00,Audio + Visual + Haptics
+Work,Friend,Morning,Weekend,8,2026-07-21 11:41:00,Audio
+Travel,Friend,Night,Weekend,23,2026-07-22 02:13:00,Audio + Haptics
+Travel,Colleague,Night,Weekend,17,2026-07-22 16:33:00,Audio + Haptics
+Work,Colleague,Morning,Weekday,21,2026-07-23 09:26:00,Audio + Visual
+Work,Colleague,Night,Weekend,16,2026-07-24 04:15:00,Audio + Visual
+Social,Acquaintance,Morning,Weekend,31,2026-07-24 22:26:00,Audio + Visual + Haptics
+Social,Friend,Afternoon,Weekend,11,2026-07-25 18:20:00,Audio + Visual
+Work,Colleague,Night,Weekday,29,2026-07-26 13:29:00,Audio + Visual
+Home,Family,Afternoon,Weekday,6,2026-07-27 09:02:00,Audio + Visual
+Work,Family,Afternoon,Weekend,15,2026-07-27 18:34:00,Audio + Visual
+Home,Friend,Morning,Weekend,9,2026-07-28 10:53:00,Audio + Visual
+Social,Acquaintance,Afternoon,Weekend,14,2026-07-29 03:53:00,Audio + Visual
+Work,Family,Night,Weekend,27,2026-07-29 21:37:00,Audio + Visual + Haptics
+Travel,Acquaintance,Afternoon,Weekend,14,2026-07-30 07:04:00,Visual + Haptics
+Social,Acquaintance,Evening,Weekday,36,2026-07-30 20:18:00,Audio + Visual + Haptics
+Work,Acquaintance,Night,Weekday,9,2026-07-31 16:58:00,Audio + Visual
+Work,Family,Evening,Weekend,31,2026-08-01 04:29:00,Audio + Visual + Haptics
+Work,Colleague,Afternoon,Weekday,26,2026-08-01 15:59:00,Audio + Visual
+Travel,Friend,Evening,Weekend,22,2026-08-02 06:50:00,Visual + Haptics
+Social,Acquaintance,Night,Weekend,37,2026-08-03 02:58:00,Audio + Visual + Smell + Haptics
+Home,Friend,Evening,Weekday,30,2026-08-03 13:36:00,Audio + Visual + Haptics
+Work,Colleague,Evening,Weekday,26,2026-08-03 22:30:00,Audio + Visual
+Work,Family,Afternoon,Weekday,22,2026-08-04 09:12:00,Audio + Visual
+Work,Family,Afternoon,Weekday,15,2026-08-04 17:56:00,Audio + Visual
+Home,Colleague,Morning,Weekend,5,2026-08-05 10:21:00,Audio
+Home,Family,Evening,Weekend,18,2026-08-05 21:41:00,Audio + Visual + Haptics
+Home,Colleague,Evening,Weekday,24,2026-08-06 08:42:00,Audio + Visual
+Work,Acquaintance,Evening,Weekend,8,2026-08-06 20:22:00,Audio + Visual
+Social,Friend,Morning,Weekday,20,2026-08-07 12:19:00,Audio + Visual
+Work,Family,Afternoon,Weekend,50,2026-08-08 09:17:00,Audio + Visual + Haptics
+Social,Friend,Night,Weekday,25,2026-08-08 18:26:00,Audio + Visual + Haptics
+Social,Colleague,Afternoon,Weekend,20,2026-08-09 06:36:00,Audio + Visual
+Work,Acquaintance,Morning,Weekend,8,2026-08-09 19:01:00,Audio
+Home,Colleague,Night,Weekend,10,2026-08-10 03:03:00,Audio + Visual
+Work,Friend,Night,Weekend,43,2026-08-10 17:01:00,Audio + Visual + Haptics
+Travel,Friend,Afternoon,Weekend,4,2026-08-11 07:51:00,Visual + Haptics
+Social,Family,Morning,Weekday,33,2026-08-12 03:59:00,Audio + Visual
+Social,Family,Morning,Weekday,17,2026-08-12 17:17:00,Audio + Visual
+Social,Colleague,Afternoon,Weekend,15,2026-08-13 11:04:00,Audio + Visual
+Travel,Friend,Night,Weekday,18,2026-08-14 01:45:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekday,11,2026-08-14 22:24:00,Audio
+Work,Friend,Afternoon,Weekday,11,2026-08-15 13:31:00,Audio + Visual
+Home,Colleague,Morning,Weekday,5,2026-08-16 05:26:00,Audio
+Social,Colleague,Night,Weekday,39,2026-08-16 23:40:00,Audio + Visual + Haptics
+Travel,Acquaintance,Morning,Weekday,22,2026-08-17 19:18:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekday,11,2026-08-18 04:04:00,Audio
+Home,Acquaintance,Evening,Weekend,24,2026-08-18 18:23:00,Audio + Visual
+Social,Friend,Afternoon,Weekday,27,2026-08-19 13:02:00,Audio + Visual
+Social,Acquaintance,Night,Weekend,52,2026-08-20 01:36:00,Audio + Visual + Smell + Haptics
+Home,Colleague,Morning,Weekend,11,2026-08-20 12:08:00,Audio
+Social,Family,Afternoon,Weekday,52,2026-08-20 20:30:00,Audio + Visual + Haptics
+Travel,Family,Night,Weekday,24,2026-08-21 06:31:00,Audio + Haptics
+Social,Acquaintance,Morning,Weekday,22,2026-08-22 01:47:00,Audio + Visual
+Home,Acquaintance,Night,Weekend,24,2026-08-22 10:32:00,Audio + Visual
+Home,Colleague,Night,Weekend,27,2026-08-23 02:49:00,Audio + Visual
+Social,Family,Night,Weekend,58,2026-08-23 17:59:00,Audio + Visual + Smell + Taste + Haptics
+Travel,Family,Afternoon,Weekday,19,2026-08-24 08:08:00,Audio + Haptics
+Work,Acquaintance,Afternoon,Weekend,13,2026-08-25 02:05:00,Audio
+Home,Family,Evening,Weekend,13,2026-08-25 13:41:00,Audio + Visual + Haptics
+Social,Friend,Morning,Weekend,21,2026-08-26 10:14:00,Audio + Visual
+Social,Colleague,Evening,Weekend,38,2026-08-26 20:33:00,Audio + Visual + Smell + Haptics
+Work,Acquaintance,Night,Weekday,24,2026-08-27 16:21:00,Audio + Visual
+Travel,Colleague,Evening,Weekday,15,2026-08-28 06:47:00,Audio + Haptics
+Home,Friend,Morning,Weekday,24,2026-08-28 16:13:00,Audio + Visual
+Travel,Friend,Night,Weekend,20,2026-08-29 00:17:00,Audio + Haptics
+Travel,Colleague,Morning,Weekday,12,2026-08-29 10:24:00,Visual + Haptics
+Social,Friend,Evening,Weekend,39,2026-08-30 02:24:00,Audio + Visual + Smell + Haptics
+Work,Colleague,Evening,Weekday,31,2026-08-30 21:01:00,Audio + Visual
+Travel,Family,Morning,Weekend,21,2026-08-31 07:54:00,Audio + Haptics
+Home,Acquaintance,Afternoon,Weekend,7,2026-08-31 17:32:00,Audio
+Home,Acquaintance,Morning,Weekday,7,2026-09-01 05:11:00,Audio
+Travel,Friend,Evening,Weekday,20,2026-09-01 13:38:00,Visual + Haptics
+Home,Family,Evening,Weekday,38,2026-09-02 04:13:00,Audio + Visual + Haptics
